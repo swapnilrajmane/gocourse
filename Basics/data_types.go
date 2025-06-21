@@ -11,7 +11,7 @@ var int = 10
 
 // }
 
-func main() {
+func Basics() {
 	lastname := "rajmane"
 	count := 11
 	bool := ""
