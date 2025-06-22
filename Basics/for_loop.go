@@ -1,4 +1,4 @@
-package main
+package Basics
 
 import "fmt"
 
@@ -31,16 +31,23 @@ func main() {
 	//}
 	//fmt.Println("We have lift off!")
 
-	rows := 10
+	// rows := 10
 
-	for i := 1; i <= rows; i++ {
-		for j := 1; j <= rows-i; j++ {
-			fmt.Print(" ")
-		}
-		for k := 1; k <= 4*i-1; k++ {
-			fmt.Print("*")
-		}
-		fmt.Println()
-	}
+	// for i := 1; i <= rows; i++ {
+	//	for j := 1; j <= rows-i; j++ {
+	//		fmt.Print(" ")
+	//	}
+	//	for k := 1; k <= 4*i-1; k++ {
+	//		fmt.Print("*")
+	//	}
+	//	fmt.Println()
+	//}
 
+	while
+	i := 1
+	i <= 10
+	i++
+	fmt.Println("swapnil is here to hack you")
 }
+
+//  fmt.Println()
